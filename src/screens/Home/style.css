@@ -1,0 +1,597 @@
+.home {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.home .div {
+  background-color: #ffffff;
+  height: 2710px;
+  position: relative;
+  width: 1920px;
+}
+
+.home .thumbnail {
+  height: 510px;
+  left: 994px;
+  position: absolute;
+  top: 1880px;
+  width: 684px;
+}
+
+.home .text-wrapper {
+  color: var(--dark-grey60);
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0.5px;
+  line-height: 24px;
+  position: absolute;
+  top: 486px;
+  width: 680px;
+}
+
+.home .text-wrapper-2 {
+  color: var(--dark-grey80);
+  font-family: "Inter", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 1px;
+  line-height: 44px;
+  position: absolute;
+  top: 434px;
+  width: 680px;
+}
+
+.home .overlap {
+  background-color: #cbd7e4;
+  height: 410px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 680px;
+}
+
+.home .safari {
+  height: 310px;
+  left: 84px;
+  position: relative;
+  top: 44px;
+  width: 512px;
+}
+
+.home .overlap-group {
+  height: 310px;
+  position: relative;
+}
+
+.home .BG {
+  height: 297px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 512px;
+}
+
+.home .interface {
+  background-image: url(https://c.animaapp.com/GMqBQNDG/img/bg-11.svg);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 14px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 512px;
+}
+
+.home .adress {
+  height: 9px;
+  left: 143px;
+  position: absolute;
+  top: 3px;
+  width: 228px;
+}
+
+.home .overlap-group-2 {
+  background-image: url(https://c.animaapp.com/GMqBQNDG/img/combined-shape.svg);
+  background-size: 100% 100%;
+  height: 9px;
+  position: relative;
+  width: 226px;
+}
+
+.home .page {
+  height: 5px;
+  left: 218px;
+  position: absolute;
+  top: 2px;
+  width: 5px;
+}
+
+.home .domain {
+  color: #6a6a6a;
+  font-family: "Inter", Helvetica;
+  font-size: 5px;
+  font-weight: 400;
+  left: 95px;
+  letter-spacing: 0;
+  line-height: 6px;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+  white-space: nowrap;
+  width: 37px;
+}
+
+.home .new-page {
+  background-color: #cacaca;
+  height: 9px;
+  left: 500px;
+  position: absolute;
+  top: 3px;
+  width: 10px;
+}
+
+.home .icon {
+  height: 4px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  width: 5px;
+}
+
+.home .sites {
+  background-image: url(https://c.animaapp.com/GMqBQNDG/img/combined-shape-1.svg);
+  background-size: 100% 100%;
+  height: 9px;
+  left: 481px;
+  position: absolute;
+  top: 3px;
+  width: 17px;
+}
+
+.home .overlap-group-wrapper {
+  height: 5px;
+  left: 6px;
+  position: relative;
+  top: 2px;
+  width: 5px;
+}
+
+.home .overlap-group-3 {
+  height: 5px;
+  position: relative;
+}
+
+.home .combined-shape {
+  height: 4px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 4px;
+}
+
+.home .img {
+  height: 4px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 4px;
+}
+
+.home .share {
+  background-image: url(https://c.animaapp.com/GMqBQNDG/img/combined-shape-4.svg);
+  background-size: 100% 100%;
+  height: 9px;
+  left: 462px;
+  position: absolute;
+  top: 3px;
+  width: 17px;
+}
+
+.home .div-wrapper {
+  background-image: url(https://c.animaapp.com/GMqBQNDG/img/combined-shape-45.svg);
+  background-size: 100% 100%;
+  height: 6px;
+  left: 6px;
+  position: relative;
+  top: 2px;
+  width: 5px;
+}
+
+.home .overlap-group-4 {
+  height: 2px;
+  left: 1px;
+  position: relative;
+  width: 4px;
+}
+
+.home .rectangle {
+  background-color: #939393;
+  height: 2px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  transform: rotate(42.82deg);
+  width: 1px;
+}
+
+.home .rectangle-2 {
+  background-color: #939393;
+  height: 2px;
+  left: 2px;
+  position: absolute;
+  top: 0;
+  transform: rotate(137.18deg);
+  width: 1px;
+}
+
+.home .rectangle-3 {
+  background-color: #939393;
+  height: 1px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  transform: rotate(42.82deg);
+  width: 1px;
+}
+
+.home .dots {
+  height: 5px;
+  left: 6px;
+  position: absolute;
+  top: 5px;
+  width: 22px;
+}
+
+.home .arrows {
+  height: 9px;
+  left: 34px;
+  position: absolute;
+  top: 3px;
+  width: 23px;
+}
+
+.home .tabs {
+  background-image: url(https://c.animaapp.com/GMqBQNDG/img/combined-shape-6.svg);
+  background-size: 100% 100%;
+  height: 9px;
+  left: 60px;
+  position: absolute;
+  top: 3px;
+  width: 17px;
+}
+
+.home .combined-shape-2 {
+  height: 5px;
+  left: 5px;
+  position: absolute;
+  top: 2px;
+  width: 6px;
+}
+
+.home .thumbnail-2 {
+  height: 510px;
+  left: 240px;
+  position: absolute;
+  top: 1880px;
+  width: 684px;
+}
+
+.home .overlap-group-5 {
+  background-image: url(https://c.animaapp.com/GMqBQNDG/img/combined-shape-8.svg);
+  background-size: 100% 100%;
+  height: 9px;
+  position: relative;
+  width: 226px;
+}
+
+.home .icon-wrapper {
+  background-image: url(https://c.animaapp.com/GMqBQNDG/img/combined-shape-9.svg);
+  background-size: 100% 100%;
+  height: 9px;
+  left: 481px;
+  position: absolute;
+  top: 3px;
+  width: 17px;
+}
+
+.home .share-2 {
+  background-image: url(https://c.animaapp.com/GMqBQNDG/img/combined-shape-12.svg);
+  background-size: 100% 100%;
+  height: 9px;
+  left: 462px;
+  position: absolute;
+  top: 3px;
+  width: 17px;
+}
+
+.home .combined-shape-wrapper {
+  background-image: url(https://c.animaapp.com/GMqBQNDG/img/combined-shape-14.svg);
+  background-size: 100% 100%;
+  height: 9px;
+  left: 60px;
+  position: absolute;
+  top: 3px;
+  width: 17px;
+}
+
+.home .thumbnail-3 {
+  height: 510px;
+  left: 994px;
+  position: absolute;
+  top: 1298px;
+  width: 684px;
+}
+
+.home .text-wrapper-3 {
+  color: var(--dark-grey80);
+  font-family: "Inter", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 1px;
+  line-height: 44px;
+  position: absolute;
+  top: 434px;
+  white-space: nowrap;
+}
+
+.home .safari-wrapper {
+  background-color: #dbecff;
+  height: 410px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 680px;
+}
+
+.home .interface-2 {
+  background-image: url(https://c.animaapp.com/GMqBQNDG/img/bg-5.svg);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 14px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 512px;
+}
+
+.home .overlap-group-6 {
+  background-image: url(https://c.animaapp.com/GMqBQNDG/img/combined-shape-16.svg);
+  background-size: 100% 100%;
+  height: 9px;
+  position: relative;
+  width: 226px;
+}
+
+.home .sites-2 {
+  background-image: url(https://c.animaapp.com/GMqBQNDG/img/combined-shape-17.svg);
+  background-size: 100% 100%;
+  height: 9px;
+  left: 481px;
+  position: absolute;
+  top: 3px;
+  width: 17px;
+}
+
+.home .share-3 {
+  background-image: url(https://c.animaapp.com/GMqBQNDG/img/combined-shape-20.svg);
+  background-size: 100% 100%;
+  height: 9px;
+  left: 462px;
+  position: absolute;
+  top: 3px;
+  width: 17px;
+}
+
+.home .icon-2 {
+  background-image: url(https://c.animaapp.com/GMqBQNDG/img/combined-shape-21.svg);
+  background-size: 100% 100%;
+  height: 6px;
+  left: 6px;
+  position: relative;
+  top: 2px;
+  width: 5px;
+}
+
+.home .img-wrapper {
+  background-image: url(https://c.animaapp.com/GMqBQNDG/img/combined-shape-22.svg);
+  background-size: 100% 100%;
+  height: 9px;
+  left: 60px;
+  position: absolute;
+  top: 3px;
+  width: 17px;
+}
+
+.home .thumbnail-4 {
+  height: 510px;
+  left: 994px;
+  position: absolute;
+  top: 716px;
+  width: 684px;
+}
+
+.home .overlap-2 {
+  background-color: #ffeed6;
+  height: 410px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 680px;
+}
+
+.home .overlap-group-7 {
+  background-image: url(https://c.animaapp.com/GMqBQNDG/img/combined-shape-24.svg);
+  background-size: 100% 100%;
+  height: 9px;
+  position: relative;
+  width: 226px;
+}
+
+.home .sites-3 {
+  background-image: url(https://c.animaapp.com/GMqBQNDG/img/combined-shape-25.svg);
+  background-size: 100% 100%;
+  height: 9px;
+  left: 481px;
+  position: absolute;
+  top: 3px;
+  width: 17px;
+}
+
+.home .share-4 {
+  background-image: url(https://c.animaapp.com/GMqBQNDG/img/combined-shape-28.svg);
+  background-size: 100% 100%;
+  height: 9px;
+  left: 462px;
+  position: absolute;
+  top: 3px;
+  width: 17px;
+}
+
+.home .tabs-2 {
+  background-image: url(https://c.animaapp.com/GMqBQNDG/img/combined-shape-30.svg);
+  background-size: 100% 100%;
+  height: 9px;
+  left: 60px;
+  position: absolute;
+  top: 3px;
+  width: 17px;
+}
+
+.home .thumbnail-5 {
+  height: 510px;
+  left: 240px;
+  position: absolute;
+  top: 1298px;
+  width: 684px;
+}
+
+.home .overlap-3 {
+  background-color: #d6f3f3;
+  height: 410px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 680px;
+}
+
+.home .overlap-group-8 {
+  background-image: url(https://c.animaapp.com/GMqBQNDG/img/combined-shape-32.svg);
+  background-size: 100% 100%;
+  height: 9px;
+  position: relative;
+  width: 226px;
+}
+
+.home .sites-4 {
+  background-image: url(https://c.animaapp.com/GMqBQNDG/img/combined-shape-33.svg);
+  background-size: 100% 100%;
+  height: 9px;
+  left: 481px;
+  position: absolute;
+  top: 3px;
+  width: 17px;
+}
+
+.home .share-5 {
+  background-image: url(https://c.animaapp.com/GMqBQNDG/img/combined-shape-36.svg);
+  background-size: 100% 100%;
+  height: 9px;
+  left: 462px;
+  position: absolute;
+  top: 3px;
+  width: 17px;
+}
+
+.home .tabs-3 {
+  background-image: url(https://c.animaapp.com/GMqBQNDG/img/combined-shape-38.svg);
+  background-size: 100% 100%;
+  height: 9px;
+  left: 60px;
+  position: absolute;
+  top: 3px;
+  width: 17px;
+}
+
+.home .thumbnail-6 {
+  height: 510px;
+  left: 240px;
+  position: absolute;
+  top: 716px;
+  width: 684px;
+}
+
+.home .overlap-group-9 {
+  background-image: url(https://c.animaapp.com/GMqBQNDG/img/combined-shape-40.svg);
+  background-size: 100% 100%;
+  height: 9px;
+  position: relative;
+  width: 226px;
+}
+
+.home .sites-5 {
+  background-image: url(https://c.animaapp.com/GMqBQNDG/img/combined-shape-41.svg);
+  background-size: 100% 100%;
+  height: 9px;
+  left: 481px;
+  position: absolute;
+  top: 3px;
+  width: 17px;
+}
+
+.home .share-6 {
+  background-image: url(https://c.animaapp.com/GMqBQNDG/img/combined-shape-44.svg);
+  background-size: 100% 100%;
+  height: 9px;
+  left: 462px;
+  position: absolute;
+  top: 3px;
+  width: 17px;
+}
+
+.home .tabs-4 {
+  background-image: url(https://c.animaapp.com/GMqBQNDG/img/combined-shape-46.svg);
+  background-size: 100% 100%;
+  height: 9px;
+  left: 60px;
+  position: absolute;
+  top: 3px;
+  width: 17px;
+}
+
+.home .intro {
+  height: 396px;
+  left: 236px;
+  position: absolute;
+  top: 160px;
+  width: 1446px;
+}
+
+.home .i-m-a-product {
+  color: var(--dark-grey80);
+  font-family: "Inter", Helvetica;
+  font-size: 56px;
+  font-weight: 700;
+  left: 4px;
+  letter-spacing: 1px;
+  line-height: 80px;
+  position: absolute;
+  top: 76px;
+  width: 1440px;
+}
+
+.home .hello {
+  height: 40px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 40px;
+}
